@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Displaying items by tag: popular</title>
+		<description><![CDATA[Bookstore Joomla E-commerce theme]]></description>
+		<link>http://demo.joomlabuff.com</link>
+		<lastBuildDate>Wed, 26 Oct 2016 00:19:03 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.joomlabuff.com/bookstore/index.php/k2-blog/blog-right-sidebar/itemlist/tag/popular?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Most recommended Books</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/k2-blog/blog-right-sidebar/item/3-most-recommended-books</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/k2-blog/blog-right-sidebar/item/3-most-recommended-books</guid>
+			<description><![CDATA[<div class="K2FeedImage"><img src="http://demo.joomlabuff.com/bookstore/media/k2/items/cache/94d43e327d9303539cb1e2aac7032668_S.jpg" alt="Most recommended Books" /></div><div class="K2FeedIntroText"><p>Nulla eleifend vel risus eget ultricies. Praesent sed tortor sem. Vestibulum elementum, lectus id dignissim condimentum, nunc felis rhoncus enim; ac pretium tellus erat at sapien. Duis vitae vehicula libero. Vivamus vitae scelerisque ante.</p>
+</div><div class="K2FeedFullText">
+<p>Etiam facilisis iaculis rutrum. Quisque id volutpat urna. Maecenas placerat pellentesque lectus vel volutpat? Morbi ultrices scelerisque lorem non accumsan. Curabitur vulputate ornare sem a cursus. Praesent dolor nunc, feugiat sed euismod semper, pulvinar a leo. Ut ut sem odio. Nullam vel ullamcorper mauris. Phasellus id ligula mattis, pulvinar velit nec, tempor odio. Aenean tincidunt sagittis tellus et pellentesque. Vivamus rutrum posuere elit.</p>
+<p>Nulla eleifend vel risus eget ultricies. Praesent sed tortor sem. Vestibulum elementum, lectus id dignissim condimentum, nunc felis rhoncus enim; ac pretium tellus erat at sapien. Duis vitae vehicula libero. Vivamus vitae scelerisque ante.</p>
+<p>Etiam facilisis iaculis rutrum. Quisque id volutpat urna. Maecenas placerat pellentesque lectus vel volutpat? Morbi ultrices scelerisque lorem non accumsan. Curabitur vulputate ornare sem a cursus. Praesent dolor nunc, feugiat sed euismod semper, pulvinar a leo. Ut ut sem odio. Nullam vel ullamcorper mauris. Phasellus id ligula mattis, pulvinar velit nec, tempor odio. Aenean tincidunt sagittis tellus et pellentesque. Vivamus rutrum posuere elit.</p>
+<p>Nulla eleifend vel risus eget ultricies. Praesent sed tortor sem. Vestibulum elementum, lectus id dignissim condimentum, nunc felis rhoncus enim; ac pretium tellus erat at sapien. Duis vitae vehicula libero. Vivamus vitae scelerisque ante.</p>
+<p>Etiam facilisis iaculis rutrum. Quisque id volutpat urna. Maecenas placerat pellentesque lectus vel volutpat? Morbi ultrices scelerisque lorem non accumsan. Curabitur vulputate ornare sem a cursus. Praesent dolor nunc, feugiat sed euismod semper, pulvinar a leo. Ut ut sem odio. Nullam vel ullamcorper mauris. Phasellus id ligula mattis, pulvinar velit nec, tempor odio. Aenean tincidunt sagittis tellus et pellentesque. Vivamus rutrum posuere elit.</p></div>]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>Review</category>
+			<pubDate>Wed, 09 Sep 2015 13:44:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

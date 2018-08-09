@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Category blog</title>
+		<description><![CDATA[Bookstore Joomla E-commerce theme]]></description>
+		<link>http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog</link>
+		<lastBuildDate>Wed, 26 Oct 2016 00:12:54 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog?limit=4&amp;format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>mvijayanand89@gmail.com (bookstore)</managingEditor>
+		<item>
+			<title>Sample article 1</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/single-article</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/single-article</guid>
+			<description><![CDATA[<p>Nulla eleifend vel risus eget ultricies. Praesent sed tortor sem. Vestibulum elementum, lectus id dignissim condimentum, nunc felis rhoncus enim; ac pretium tellus erat at sapien. Duis vitae vehicula libero. Vivamus vitae scelerisque ante.</p>
+]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>category blog</category>
+			<pubDate>Wed, 30 Sep 2015 11:27:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sample article 2</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog/286-sample-article-2</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog/286-sample-article-2</guid>
+			<description><![CDATA[<p>Nulla eleifend vel risus eget ultricies. Praesent sed tortor sem. Vestibulum elementum, lectus id dignissim condimentum, nunc felis rhoncus enim; ac pretium tellus erat at sapien. Duis vitae vehicula libero. Vivamus vitae scelerisque ante.</p>
+]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>category blog</category>
+			<pubDate>Wed, 30 Sep 2015 11:27:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sample article3</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog/287-sample-article-3</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog/287-sample-article-3</guid>
+			<description><![CDATA[<p>Nulla eleifend vel risus eget ultricies. Praesent sed tortor sem. Vestibulum elementum, lectus id dignissim condimentum, nunc felis rhoncus enim; ac pretium tellus erat at sapien. Duis vitae vehicula libero. Vivamus vitae scelerisque ante.</p>
+	]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>category blog</category>
+			<pubDate>Wed, 30 Sep 2015 11:27:50 +0000</pubDate>
+		</item>
+		<item>
+			<title>Sample article 4</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog/288-sample-article-4</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/category-blog/288-sample-article-4</guid>
+			<description><![CDATA[<p>Nulla eleifend vel risus eget ultricies. Praesent sed tortor sem. Vestibulum elementum, lectus id dignissim condimentum, nunc felis rhoncus enim; ac pretium tellus erat at sapien. Duis vitae vehicula libero. Vivamus vitae scelerisque ante.</p>
+	]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>category blog</category>
+			<pubDate>Wed, 30 Sep 2015 11:27:50 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

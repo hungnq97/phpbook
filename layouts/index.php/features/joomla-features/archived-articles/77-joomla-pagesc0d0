@@ -1,0 +1,1246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Archived Articles</title>
+		<description><![CDATA[Bookstore Joomla E-commerce theme]]></description>
+		<link>http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/archived-articles/77-joomla-pages</link>
+		<lastBuildDate>Wed, 26 Oct 2016 00:13:07 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://demo.joomlabuff.com/bookstore/index.php/features/joomla-features/archived-articles/77-joomla-pages?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<managingEditor>mvijayanand89@gmail.com (bookstore)</managingEditor>
+		<item>
+			<title>404 Error page</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/pages/error-page</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/pages/error-page</guid>
+			<description><![CDATA[<div class="well text-center">Below is the screenshot of <strong>404 Error page style</strong> .</div>
+<p><img src="http://demo.joomlabuff.com/bookstore/images/jberror_page.png" alt="jberror page" class="img-responsive" />
+</p>]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>joomla pages</category>
+			<pubDate>Tue, 29 Sep 2015 15:45:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>columns</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/features/bookstore-features/columns</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/features/bookstore-features/columns</guid>
+			<description><![CDATA[<div class="bg-white">
+	<div class="container pad-container">
+		<div class="row">
+			<div class="col-sm-6">
+				<h3 class="module-title "><span>ONE HALF 1/2</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula. Vivamus purus odio, mollis ut sagittis vel, feugiat et nulla. Aenean id felis sed ligula volutpat consectetur.</p>
+			</div>
+			<div class="col-sm-6">
+				<h3 class="module-title "><span>ONE HALF 1/2</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula. Vivamus purus odio, mollis ut sagittis vel, feugiat et nulla. Aenean id felis sed ligula volutpat consectetur.</p>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-sm-4">
+				<h3 class="module-title "><span>ONE THIRD 1/3</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula.</p>
+			</div>
+			<div class="col-sm-4">
+				<h3 class="module-title "><span>ONE THIRD 1/3</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula.</p>
+			</div>
+			<div class="col-sm-4">
+				<h3 class="module-title "><span>ONE THIRD 1/3</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula.</p>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-sm-4">
+				<h3 class="module-title "><span>ONE THIRD 1/3</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula.</p>
+			</div>
+			<div class="col-sm-8">
+				<h3 class="module-title "><span>ONE THIRD 2/3</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula. Aenean id felis sed ligula volutpat consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula.</p>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-sm-3">
+				<h3 class="module-title "><span>ONE FOURTH 1/4</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+			<div class="col-sm-3">
+				<h3 class="module-title "><span>ONE FOURTH 1/4</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+			<div class="col-sm-3">
+				<h3 class="module-title "><span>ONE FOURTH 1/4</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+			<div class="col-sm-3">
+				<h3 class="module-title "><span>ONE FOURTH 1/4</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-sm-3">
+				<h3 class="module-title "><span>ONE FOURTH 1/4</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+			<div class="col-sm-9">
+				<h3 class="module-title "><span>Three FOURTH 3/4</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula. Vivamus purus odio, mollis ut sagittis vel, feugiat et nulla. Aenean id felis sed ligula volutpat consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-sm-2">
+				<h3 class="module-title "><span>ONE Sixth 1/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula.</p>
+			</div>
+			<div class="col-sm-2">
+				<h3 class="module-title "><span>ONE Sixth 1/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula.</p>
+			</div>
+			<div class="col-sm-2">
+				<h3 class="module-title "><span>ONE Sixth 1/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula.</p>
+			</div>
+			<div class="col-sm-2">
+				<h3 class="module-title "><span>ONE Sixth 1/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula.</p>
+			</div>
+			<div class="col-sm-2">
+				<h3 class="module-title "><span>ONE Sixth 1/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula.</p>
+			</div>
+			<div class="col-sm-2">
+				<h3 class="module-title "><span>ONE Sixth 1/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula.</p>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-sm-2">
+				<h3 class="module-title "><span>ONE Sixth 1/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor.</p>
+			</div>
+			<div class="col-sm-10">
+				<h3 class="module-title "><span>five Sixth 5/6</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula. Vivamus purus odio, mollis ut sagittis vel, feugiat et nulla. Aenean id felis sed ligula volutpat consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+		</div>
+		<hr />
+		<div class="row">
+			<div class="col-sm-12">
+				<h3 class="module-title"><span>Full Width</span>
+				</h3>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor. Quisque nec nisi tortor. Etiam at mauris sit amet magna suscipit hend rerit non sed ligula. Vivamus purus odio, mollis ut sagittis vel, feugiat et nulla. Aenean id felis sed ligula volutpat consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse viverra mauris eget tortor imperdiet vehicula. Proin egestas diam ac mauris molestie hendrerit. Quisque nec nisi tortor.</p>
+			</div>
+		</div>
+	</div>
+</div> ]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>joomla pages</category>
+			<pubDate>Thu, 01 Oct 2015 10:48:55 +0000</pubDate>
+		</item>
+		<item>
+			<title>icons list</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/features/bookstore-features/font-icons-list</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/features/bookstore-features/font-icons-list</guid>
+			<description><![CDATA[<div class="text-center jb-title-center">
+	<h3 class="module-title"><span>Line Icons</span></h3>
+	<div class="module-intro">below is the list of line icons examples</div>
+</div>
+<div class="col-sm-6 col-md-3 col-xs-12">
+	<ul class="the-icons">
+		<li><em class="icon-line-eye"></em>icon-line-eye</li>
+		<li><em class="icon-line-paper-clip"></em>icon-line-paper-clip</li>
+		<li><em class="icon-line-mail"></em>icon-line-mail</li>
+		<li><em class="icon-line-toggle"></em>icon-line-toggle</li>
+		<li><em class="icon-line-layout"></em>icon-line-layout</li>
+		<li><em class="icon-line-link"></em>icon-line-link</li>
+		<li><em class="icon-line-bell"></em>icon-line-bell</li>
+		<li><em class="icon-line-lock"></em>icon-line-lock</li>
+		<li><em class="icon-line-unlock"></em>icon-line-unlock</li>
+		<li><em class="icon-line-ribbon"></em>icon-line-ribbon</li>
+		<li><em class="icon-line-image"></em>icon-line-image</li>
+		<li><em class="icon-line-signal"></em>icon-line-signal</li>
+		<li><em class="icon-line-target"></em>icon-line-target</li>
+		<li><em class="icon-line-clipboard"></em>icon-line-clipboard</li>
+		<li><em class="icon-line-clock"></em>icon-line-clock</li>
+		<li><em class="icon-line-watch"></em>icon-line-watch</li>
+		<li><em class="icon-line-air-play"></em>icon-line-air-play</li>
+		<li><em class="icon-line-camera"></em>icon-line-camera</li>
+		<li><em class="icon-line-video"></em>icon-line-video</li>
+		<li><em class="icon-line-disc"></em>icon-line-disc</li>
+		<li><em class="icon-line-printer"></em>icon-line-printer</li>
+		<li><em class="icon-line-monitor"></em>icon-line-monitor</li>
+		<li><em class="icon-line-server"></em>icon-line-server</li>
+		<li><em class="icon-line-cog"></em>icon-line-cog</li>
+		<li><em class="icon-line-heart"></em>icon-line-heart</li>
+		<li><em class="icon-line-paragraph"></em>icon-line-paragraph</li>
+		<li><em class="icon-line-align-justify"></em>icon-line-align-justify</li>
+		<li><em class="icon-line-align-left"></em>icon-line-align-left</li>
+		<li><em class="icon-line-align-center"></em>icon-line-align-center</li>
+		<li><em class="icon-line-align-right"></em>icon-line-align-right</li>
+		<li><em class="icon-line-book"></em>icon-line-book</li>
+		<li><em class="icon-line-layers"></em>icon-line-layers</li>
+		<li><em class="icon-line-stack"></em>icon-line-stack</li>
+		<li><em class="icon-line-stack-2"></em>icon-line-stack-2</li>
+		<li><em class="icon-line-paper"></em>icon-line-paper</li>
+		<li><em class="icon-line-paper-stack"></em>icon-line-paper-stack</li>
+		<li><em class="icon-line2-magnifier-remove"></em>icon-line2-magnifier-remove</li>
+		<li><em class="icon-line2-paper-clip"></em>icon-line2-paper-clip</li>
+		<li><em class="icon-line2-paper-plane"></em>icon-line2-paper-plane</li>
+		<li><em class="icon-line2-plus"></em>icon-line2-plus</li>
+		<li><em class="icon-line2-pointer"></em>icon-line2-pointer</li>
+		<li><em class="icon-line2-power"></em>icon-line2-power</li>
+		<li><em class="icon-line2-refresh"></em>icon-line2-refresh</li>
+		<li><em class="icon-line2-reload"></em>icon-line2-reload</li>
+		<li><em class="icon-line2-settings"></em>icon-line2-settings</li>
+		<li><em class="icon-line2-star"></em>icon-line2-star</li>
+		<li><em class="icon-line2-symbol-female"></em>icon-line2-symbol-female</li>
+		<li><em class="icon-line2-symbol-male"></em>icon-line2-symbol-male</li>
+		<li><em class="icon-line2-target"></em>icon-line2-target</li>
+		<li><em class="icon-line2-volume-1"></em>icon-line2-volume-1</li>
+		<li><em class="icon-line2-volume-2"></em>icon-line2-volume-2</li>
+		<li><em class="icon-line2-volume-off"></em>icon-line2-volume-off</li>
+		<li><em class="icon-line2-users"></em>icon-line2-users</li>
+		<li><em class="icon-line2-globe-alt"></em>icon-line2-globe-alt</li>
+		<li><em class="icon-line2-globe"></em>icon-line2-globe</li>
+		<li><em class="icon-line2-frame"></em>icon-line2-frame</li>
+		<li><em class="icon-line2-folder-alt"></em>icon-line2-folder-alt</li>
+		<li><em class="icon-line2-film"></em>icon-line2-film</li>
+		<li><em class="icon-line2-feed"></em>icon-line2-feed</li>
+		<li><em class="icon-line2-earphones-alt"></em>icon-line2-earphones-alt</li>
+		<li><em class="icon-line2-earphones"></em>icon-line2-earphones</li>
+		<li><em class="icon-line2-drop"></em>icon-line2-drop</li>
+		<li><em class="icon-line2-drawer"></em>icon-line2-drawer</li>
+		<li><em class="icon-line2-docs"></em>icon-line2-docs</li>
+		<li><em class="icon-line2-directions"></em>icon-line2-directions</li>
+		<li><em class="icon-line2-direction"></em>icon-line2-direction</li>
+		<li><em class="icon-line2-diamond"></em>icon-line2-diamond</li>
+		<li><em class="icon-line2-cup"></em>icon-line2-cup</li>
+		<li><em class="icon-line2-compass"></em>icon-line2-compass</li>
+		<li><em class="icon-line2-call-out"></em>icon-line2-call-out</li>
+		<li><em class="icon-line2-call-in"></em>icon-line2-call-in</li>
+		<li><em class="icon-line2-call-end"></em>icon-line2-call-end</li>
+		<li><em class="icon-line2-calculator"></em>icon-line2-calculator</li>
+	</ul>
+</div>
+<div class="col-sm-6 col-md-3 col-xs-12">
+	<ul class="the-icons">
+		<li><em class="icon-line2-handbag"></em>icon-line2-handbag</li>
+		<li><em class="icon-line2-briefcase"></em>icon-line2-briefcase</li>
+		<li><em class="icon-line2-book-open"></em>icon-line2-book-open</li>
+		<li><em class="icon-line2-basket-loaded"></em>icon-line2-basket-loaded</li>
+		<li><em class="icon-line2-basket"></em>icon-line2-basket</li>
+		<li><em class="icon-line2-bag"></em>icon-line2-bag</li>
+		<li><em class="icon-line2-action-undo"></em>icon-line2-action-undo</li>
+		<li><em class="icon-line2-action-redo"></em>icon-line2-action-redo</li>
+		<li><em class="icon-line2-wrench"></em>icon-line2-wrench</li>
+		<li><em class="icon-line2-umbrella"></em>icon-line2-umbrella</li>
+		<li><em class="icon-line2-trash"></em>icon-line2-trash</li>
+		<li><em class="icon-line2-tag"></em>icon-line2-tag</li>
+		<li><em class="icon-line2-support"></em>icon-line2-support</li>
+		<li><em class="icon-line2-size-fullscreen"></em>icon-line2-size-fullscreen</li>
+		<li><em class="icon-line2-size-actual"></em>icon-line2-size-actual</li>
+		<li><em class="icon-line2-shuffle"></em>icon-line2-shuffle</li>
+		<li><em class="icon-line2-share-alt"></em>icon-line2-share-alt</li>
+		<li><em class="icon-line2-share"></em>icon-line2-share</li>
+		<li><em class="icon-line2-rocket"></em>icon-line2-rocket</li>
+		<li><em class="icon-line2-question"></em>icon-line2-question</li>
+		<li><em class="icon-line2-pie-chart"></em>icon-line2-pie-chart</li>
+		<li><em class="icon-line2-pencil"></em>icon-line2-pencil</li>
+		<li><em class="icon-line2-note"></em>icon-line2-note</li>
+		<li><em class="icon-line2-music-tone-alt"></em>icon-line2-music-tone-alt</li>
+		<li><em class="icon-line2-music-tone"></em>icon-line2-music-tone</li>
+		<li><em class="icon-line2-microphone"></em>icon-line2-microphone</li>
+		<li><em class="icon-line2-loop"></em>icon-line2-loop</li>
+		<li><em class="icon-line2-logout"></em>icon-line2-logout</li>
+		<li><em class="icon-line2-login"></em>icon-line2-login</li>
+		<li><em class="icon-line2-list"></em>icon-line2-list</li>
+		<li><em class="icon-line2-like"></em>icon-line2-like</li>
+		<li><em class="icon-line2-home"></em>icon-line2-home</li>
+		<li><em class="icon-line2-grid"></em>icon-line2-grid</li>
+		<li><em class="icon-line2-graph"></em>icon-line2-graph</li>
+		<li><em class="icon-line2-equalizer"></em>icon-line2-equalizer</li>
+		<li><em class="icon-line2-dislike"></em>icon-line2-dislike</li>
+		<li><em class="icon-line2-cursor"></em>icon-line2-cursor</li>
+		<li><em class="icon-line2-control-start"></em>icon-line2-control-start</li>
+		<li><em class="icon-line2-control-rewind"></em>icon-line2-control-rewind</li>
+		<li><em class="icon-line2-control-play"></em>icon-line2-control-play</li>
+		<li><em class="icon-line2-control-pause"></em>icon-line2-control-pause</li>
+		<li><em class="icon-line2-control-forward"></em>icon-line2-control-forward</li>
+		<li><em class="icon-line2-control-end"></em>icon-line2-control-end</li>
+		<li><em class="icon-line2-calendar"></em>icon-line2-calendar</li>
+		<li><em class="icon-line2-bulb"></em>icon-line2-bulb</li>
+		<li><em class="icon-line2-bar-chart"></em>icon-line2-bar-chart</li>
+		<li><em class="icon-line2-arrow-up"></em>icon-line2-arrow-up</li>
+		<li><em class="icon-line2-arrow-right"></em>icon-line2-arrow-right</li>
+		<li><em class="icon-line2-arrow-left"></em>icon-line2-arrow-left</li>
+		<li><em class="icon-line2-arrow-down"></em>icon-line2-arrow-down</li>
+		<li><em class="icon-line2-ban"></em>icon-line2-ban</li>
+		<li><em class="icon-line2-bubble"></em>icon-line2-bubble</li>
+		<li><em class="icon-line2-camcorder"></em>icon-line2-camcorder</li>
+		<li><em class="icon-line2-camera"></em>icon-line2-camera</li>
+		<li><em class="icon-line2-check"></em>icon-line2-check</li>
+		<li><em class="icon-line2-clock"></em>icon-line2-clock</li>
+		<li><em class="icon-line2-close"></em>icon-line2-close</li>
+		<li><em class="icon-line2-cloud-download"></em>icon-line2-cloud-download</li>
+		<li><em class="icon-line2-cloud-upload"></em>icon-line2-cloud-upload</li>
+		<li><em class="icon-line2-doc"></em>icon-line2-doc</li>
+		<li><em class="icon-line2-envelope"></em>icon-line2-envelope</li>
+		<li><em class="icon-line2-eye"></em>icon-line2-eye</li>
+		<li><em class="icon-line2-flag"></em>icon-line2-flag</li>
+		<li><em class="icon-line2-folder"></em>icon-line2-folder</li>
+		<li><em class="icon-line2-heart"></em>icon-line2-heart</li>
+		<li><em class="icon-line2-info"></em>icon-line2-info</li>
+		<li><em class="icon-line2-key"></em>icon-line2-key</li>
+		<li><em class="icon-line2-link"></em>icon-line2-link</li>
+		<li><em class="icon-line2-lock"></em>icon-line2-lock</li>
+		<li><em class="icon-line2-lock-open"></em>icon-line2-lock-open</li>
+		<li><em class="icon-line2-magnifier"></em>icon-line2-magnifier</li>
+		<li><em class="icon-line2-magnifier-add"></em>icon-line2-magnifier-add</li>
+		<li><em class="icon-line2-bubbles"></em>icon-line2-bubbles</li>
+	</ul>
+</div>
+<div class="col-sm-6 col-md-3 col-xs-12">
+	<ul class="the-icons">
+		<li><em class="icon-line-search"></em>icon-line-search</li>
+		<li><em class="icon-line-zoom-in"></em>icon-line-zoom-in</li>
+		<li><em class="icon-line-zoom-out"></em>icon-line-zoom-out</li>
+		<li><em class="icon-line-reply"></em>icon-line-reply</li>
+		<li><em class="icon-line-circle-plus"></em>icon-line-circle-plus</li>
+		<li><em class="icon-line-circle-minus"></em>icon-line-circle-minus</li>
+		<li><em class="icon-line-circle-check"></em>icon-line-circle-check</li>
+		<li><em class="icon-line-circle-cross"></em>icon-line-circle-cross</li>
+		<li><em class="icon-line-square-plus"></em>icon-line-square-plus</li>
+		<li><em class="icon-line-square-minus"></em>icon-line-square-minus</li>
+		<li><em class="icon-line-square-check"></em>icon-line-square-check</li>
+		<li><em class="icon-line-square-cross"></em>icon-line-square-cross</li>
+		<li><em class="icon-line-microphone"></em>icon-line-microphone</li>
+		<li><em class="icon-line-record"></em>icon-line-record</li>
+		<li><em class="icon-line-skip-back"></em>icon-line-skip-back</li>
+		<li><em class="icon-line-rewind"></em>icon-line-rewind</li>
+		<li><em class="icon-line-play"></em>icon-line-play</li>
+		<li><em class="icon-line-pause"></em>icon-line-pause</li>
+		<li><em class="icon-line-stop"></em>icon-line-stop</li>
+		<li><em class="icon-line-fast-forward"></em>icon-line-fast-forward</li>
+		<li><em class="icon-line-skip-forward"></em>icon-line-skip-forward</li>
+		<li><em class="icon-line-shuffle"></em>icon-line-shuffle</li>
+		<li><em class="icon-line-repeat"></em>icon-line-repeat</li>
+		<li><em class="icon-line-folder"></em>icon-line-folder</li>
+		<li><em class="icon-line-umbrella"></em>icon-line-umbrella</li>
+		<li><em class="icon-line-moon"></em>icon-line-moon</li>
+		<li><em class="icon-line-thermometer"></em>icon-line-thermometer</li>
+		<li><em class="icon-line-drop"></em>icon-line-drop</li>
+		<li><em class="icon-line-sun"></em>icon-line-sun</li>
+		<li><em class="icon-line-cloud"></em>icon-line-cloud</li>
+		<li><em class="icon-line-cloud-upload"></em>icon-line-cloud-upload</li>
+		<li><em class="icon-line-cloud-download"></em>icon-line-cloud-download</li>
+		<li><em class="icon-line-upload"></em>icon-line-upload</li>
+		<li><em class="icon-line-download"></em>icon-line-download</li>
+		<li><em class="icon-line-location"></em>icon-line-location</li>
+		<li><em class="icon-line-location-2"></em>icon-line-location-2</li>
+		<li><em class="icon-line-map"></em>icon-line-map</li>
+		<li><em class="icon-line-battery"></em>icon-line-battery</li>
+		<li><em class="icon-line-head"></em>icon-line-head</li>
+		<li><em class="icon-line-briefcase"></em>icon-line-briefcase</li>
+		<li><em class="icon-line-speech-bubble"></em>icon-line-speech-bubble</li>
+		<li><em class="icon-line-anchor"></em>icon-line-anchor</li>
+		<li><em class="icon-line-globe"></em>icon-line-globe</li>
+		<li><em class="icon-line-box"></em>icon-line-box</li>
+		<li><em class="icon-line-reload"></em>icon-line-reload</li>
+		<li><em class="icon-line-share"></em>icon-line-share</li>
+		<li><em class="icon-line-marquee"></em>icon-line-marquee</li>
+		<li><em class="icon-line-marquee-plus"></em>icon-line-marquee-plus</li>
+		<li><em class="icon-line-marquee-minus"></em>icon-line-marquee-minus</li>
+		<li><em class="icon-line-tag"></em>icon-line-tag</li>
+		<li><em class="icon-line-power"></em>icon-line-power</li>
+		<li><em class="icon-line-command"></em>icon-line-command</li>
+		<li><em class="icon-line-alt"></em>icon-line-alt</li>
+		<li><em class="icon-line-esc"></em>icon-line-esc</li>
+		<li><em class="icon-line2-anchor"></em>icon-line2-anchor</li>
+		<li><em class="icon-line2-wallet"></em>icon-line2-wallet</li>
+		<li><em class="icon-line2-vector"></em>icon-line2-vector</li>
+		<li><em class="icon-line2-speech"></em>icon-line2-speech</li>
+		<li><em class="icon-line2-puzzle"></em>icon-line2-puzzle</li>
+		<li><em class="icon-line2-printer"></em>icon-line2-printer</li>
+		<li><em class="icon-line2-present"></em>icon-line2-present</li>
+		<li><em class="icon-line2-playlist"></em>icon-line2-playlist</li>
+		<li><em class="icon-line2-pin"></em>icon-line2-pin</li>
+		<li><em class="icon-line2-picture"></em>icon-line2-picture</li>
+		<li><em class="icon-line2-map"></em>icon-line2-map</li>
+		<li><em class="icon-line2-layers"></em>icon-line2-layers</li>
+		<li><em class="icon-line2-social-dropbox"></em>icon-line2-social-dropbox</li>
+		<li><em class="icon-line2-social-dribbble"></em>icon-line2-social-dribbble</li>
+		<li><em class="icon-line2-shield"></em>icon-line2-shield</li>
+		<li><em class="icon-line2-screen-tablet"></em>icon-line2-screen-tablet</li>
+		<li><em class="icon-line2-magic-wand"></em>icon-line2-magic-wand</li>
+		<li><em class="icon-line-bar-graph-2"></em>icon-line-bar-graph-2</li>
+		<li><em class="icon-line2-hourglass"></em>icon-line2-hourglass</li>
+	</ul>
+</div>
+<div class="col-sm-6 col-md-3 col-xs-12">
+	<ul class="the-icons">
+		<li><em class="icon-line-bar-graph"></em>icon-line-bar-graph</li>
+		<li><em class="icon-line-pie-graph"></em>icon-line-pie-graph</li>
+		<li><em class="icon-line-star"></em>icon-line-star</li>
+		<li><em class="icon-line-arrow-left"></em>icon-line-arrow-left</li>
+		<li><em class="icon-line-arrow-right"></em>icon-line-arrow-right</li>
+		<li><em class="icon-line-arrow-up"></em>icon-line-arrow-up</li>
+		<li><em class="icon-line-arrow-down"></em>icon-line-arrow-down</li>
+		<li><em class="icon-line-volume"></em>icon-line-volume</li>
+		<li><em class="icon-line-mute"></em>icon-line-mute</li>
+		<li><em class="icon-line-content-right"></em>icon-line-content-right</li>
+		<li><em class="icon-line-content-left"></em>icon-line-content-left</li>
+		<li><em class="icon-line-grid"></em>icon-line-grid</li>
+		<li><em class="icon-line-grid-2"></em>icon-line-grid-2</li>
+		<li><em class="icon-line-columns"></em>icon-line-columns</li>
+		<li><em class="icon-line-loader"></em>icon-line-loader</li>
+		<li><em class="icon-line-bag"></em>icon-line-bag</li>
+		<li><em class="icon-line-ban"></em>icon-line-ban</li>
+		<li><em class="icon-line-flag"></em>icon-line-flag</li>
+		<li><em class="icon-line-trash"></em>icon-line-trash</li>
+		<li><em class="icon-line-expand"></em>icon-line-expand</li>
+		<li><em class="icon-line-contract"></em>icon-line-contract</li>
+		<li><em class="icon-line-maximize"></em>icon-line-maximize</li>
+		<li><em class="icon-line-minimize"></em>icon-line-minimize</li>
+		<li><em class="icon-line-plus"></em>icon-line-plus</li>
+		<li><em class="icon-line-minus"></em>icon-line-minus</li>
+		<li><em class="icon-line-check"></em>icon-line-check</li>
+		<li><em class="icon-line-cross"></em>icon-line-cross</li>
+		<li><em class="icon-line-move"></em>icon-line-move</li>
+		<li><em class="icon-line-delete"></em>icon-line-delete</li>
+		<li><em class="icon-line-menu"></em>icon-line-menu</li>
+		<li><em class="icon-line-archive"></em>icon-line-archive</li>
+		<li><em class="icon-line-inbox"></em>icon-line-inbox</li>
+		<li><em class="icon-line-outbox"></em>icon-line-outbox</li>
+		<li><em class="icon-line-file"></em>icon-line-file</li>
+		<li><em class="icon-line-file-add"></em>icon-line-file-add</li>
+		<li><em class="icon-line-file-subtract"></em>icon-line-file-subtract</li>
+		<li><em class="icon-line-help"></em>icon-line-help</li>
+		<li><em class="icon-line-open"></em>icon-line-open</li>
+		<li><em class="icon-line-ellipsis"></em>icon-line-ellipsis</li>
+		<li><em class="icon-line2-user-female"></em>icon-line2-user-female</li>
+		<li><em class="icon-line2-user-follow"></em>icon-line2-user-follow</li>
+		<li><em class="icon-line2-user-following"></em>icon-line2-user-following</li>
+		<li><em class="icon-line2-user-unfollow"></em>icon-line2-user-unfollow</li>
+		<li><em class="icon-line2-trophy"></em>icon-line2-trophy</li>
+		<li><em class="icon-line2-screen-smartphone"></em>icon-line2-screen-smartphone</li>
+		<li><em class="icon-line2-screen-desktop"></em>icon-line2-screen-desktop</li>
+		<li><em class="icon-line2-plane"></em>icon-line2-plane</li>
+		<li><em class="icon-line2-notebook"></em>icon-line2-notebook</li>
+		<li><em class="icon-line2-moustache"></em>icon-line2-moustache</li>
+		<li><em class="icon-line2-mouse"></em>icon-line2-mouse</li>
+		<li><em class="icon-line2-magnet"></em>icon-line2-magnet</li>
+		<li><em class="icon-line2-energy"></em>icon-line2-energy</li>
+		<li><em class="icon-line2-emoticon-smile"></em>icon-line2-emoticon-smile</li>
+		<li><em class="icon-line2-disc"></em>icon-line2-disc</li>
+		<li><em class="icon-line2-cursor-move"></em>icon-line2-cursor-move</li>
+		<li><em class="icon-line2-crop"></em>icon-line2-crop</li>
+		<li><em class="icon-line2-credit-card"></em>icon-line2-credit-card</li>
+		<li><em class="icon-line2-chemistry"></em>icon-line2-chemistry</li>
+		<li><em class="icon-line2-user"></em>icon-line2-user</li>
+		<li><em class="icon-line2-speedometer"></em>icon-line2-speedometer</li>
+		<li><em class="icon-line2-social-youtube"></em>icon-line2-social-youtube</li>
+		<li><em class="icon-line2-social-twitter"></em>icon-line2-social-twitter</li>
+		<li><em class="icon-line2-social-tumblr"></em>icon-line2-social-tumblr</li>
+		<li><em class="icon-line2-social-facebook"></em>icon-line2-social-facebook</li>
+		<li><em class="icon-line2-graduation"></em>icon-line2-graduation</li>
+		<li><em class="icon-line2-ghost"></em>icon-line2-ghost</li>
+		<li><em class="icon-line2-game-controller"></em>icon-line2-game-controller</li>
+		<li><em class="icon-line2-fire"></em>icon-line2-fire</li>
+		<li><em class="icon-line2-eyeglasses"></em>icon-line2-eyeglasses</li>
+		<li><em class="icon-line2-envelope-open"></em>icon-line2-envelope-open</li>
+		<li><em class="icon-line2-envelope-letter"></em>icon-line2-envelope-letter</li>
+		<li><em class="icon-line2-bell"></em>icon-line2-bell</li>
+		<li><em class="icon-line2-badge"></em>icon-line2-badge</li>
+	</ul>
+</div>]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>joomla pages</category>
+			<pubDate>Wed, 30 Sep 2015 08:49:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Offline page</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/pages/offline-page</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/pages/offline-page</guid>
+			<description><![CDATA[<div class="well text-center">Below is the screenshot of <strong>Offline page style</strong> .</div>
+<p><img src="http://demo.joomlabuff.com/bookstore/images/jboffline_page.png" alt="jboffline page" class="img-responsive" /></p>]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>joomla pages</category>
+			<pubDate>Tue, 29 Sep 2015 15:45:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>Typography</title>
+			<link>http://demo.joomlabuff.com/bookstore/index.php/features/bookstore-features/typography</link>
+			<guid isPermaLink="true">http://demo.joomlabuff.com/bookstore/index.php/features/bookstore-features/typography</guid>
+			<description><![CDATA[<div class="row example-row example-type">
+<div class="col-lg-6">
+<h1>h1. Heading <small>Secondary text</small></h1>
+<h2>h2. Heading <small>Secondary text</small></h2>
+<h3>h3. Heading <small>Secondary text</small></h3>
+<h4>h4. Heading <small>Secondary text</small></h4>
+<h5>h5. Heading <small>Secondary text</small></h5>
+<h6>h6. Heading <small>Secondary text</small></h6>
+<div class="alert alert-warning">
+<p><strong>TIPS:</strong> Create lighter, secondary text in any heading with a generic <code>&lt;small&gt;</code> tag or the <code>.small</code> class.</p>
+</div>
+</div>
+<div class="col-lg-6">
+<h2>Example body text</h2>
+<p class="lead">This is a <strong>lead paragraph</strong>. Make a paragraph stand out by adding <code>.lead</code>.</p>
+<p>Maecenas sed diam eget risus varius blandit sit amet non magna. Donec id elit non mi porta gravida at eget metus.</p>
+<p>Nullam quis risus eget <a href="http://demo.joomlabuff.com/bookstore/#">urna mollis ornare</a> vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula.</p>
+<p>The following snippet of text is <strong>rendered as bold text</strong>.</p>
+<p>The following snippet of text is <em>rendered as italicized text</em>.</p>
+<p>An abbreviation of the word attribute is <abbr title="attribute">attr</abbr>.</p>
+</div>
+</div>
+<!-- //Headings -->
+<p>&nbsp;</p>
+<!-- Address & Emphasis -->
+<div class="row example-row example-type">
+<div class="col-lg-4">
+<h2>Address</h2>
+<address><strong>Company Name</strong><br /> 795 Folsom Ave, Suite 600<br /> San Francisco, CA 94107<br /> <abbr title="Phone">P:</abbr> (123) 456-7890</address><address><strong>Full Name</strong><br /> <abbr title="Phone">P:</abbr> (123) 456-7890<br /> <a href="mailto:">first.last@example.com</a></address></div>
+<div class="col-lg-4">
+<h2>Emphasis classes</h2>
+<p class="text-muted">This is a <code>.mute</code> paragraph.</p>
+<p class="text-primary">This is a <code>.text-primary</code> paragraph.</p>
+<p class="text-warning">This is a <code>.text-warning</code> paragraph.</p>
+<p class="text-danger">This is a <code>.text-danger</code> paragraph.</p>
+<p class="text-success">This is a <code>.text-success</code> paragraph.</p>
+<p class="text-info">This is a <code>.text-info</code> paragraph.</p>
+</div>
+<div class="col-lg-4">
+<h2>Alignment classes</h2>
+<p class="text-left">This is a left aligned text <code>.text-left</code></p>
+<p class="text-center">This is a center aligned text <code>.text-center</code></p>
+<p class="text-right">This is a right aligned text <code>.text-right</code></p>
+<p class="text-justify">This is a justify aligned text which is often used in Book Design, Magazine or special Typo Pages. Create a justify aligned text with <code>.text-justify</code> class.</p>
+</div>
+</div>
+<!-- //Address & Emphasis -->
+<p>&nbsp;</p>
+<!-- Blockquotes -->
+<h2>Blockquotes</h2>
+<div class="row example-row example-type">
+<div class="col-lg-12">
+<div class="well">
+<blockquote class="text-jutify" style="margin-bottom: 0;">
+<p>This is a <code>&lt;blockquote&gt;</code> in a <code>&lt;.well&gt;</code>.</p>
+<small>Quote's author in <cite title="Source Title">Source Title</cite></small></blockquote>
+</div>
+</div>
+</div>
+<div class="row example-row example-type">
+<div class="col-lg-6">
+<blockquote>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+<small>Quote's author in <cite title="Source Title">Source Title</cite></small></blockquote>
+</div>
+<div class="col-lg-6">
+<blockquote class="pull-right">
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+<small>Quote's author in <cite title="Source Title">Source Title</cite></small></blockquote>
+</div>
+</div>
+<!-- //Blockquotes -->
+<p>&nbsp;</p>
+<!-- //CORE TYPOGRAPHY -->
+<p>&nbsp;</p>
+<!-- COLOR SWATCHES
+=======================================================-->
+<div class="docs-section">
+<div class="page-header">
+<h1 id="example-colors">Color Swatches</h1>
+</div>
+<!-- Brand Colors -->
+<h2>Brand Colors</h2>
+<div class="row example-row example-colors">
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="0" data-animation="pop-up">
+<div class="swatch-item color-brand-primary"><dl><dt>#1bbc9b</dt><dd>Brand Primary</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="200" data-animation="pop-up">
+<div class="swatch-item color-brand-secondary"><dl><dt>#2c3e50</dt><dd>Brand Secondary</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="400" data-animation="pop-up">
+<div class="swatch-item color-brand-warning"><dl><dt>#f0ad4e</dt><dd>Brand Warning</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="600" data-animation="pop-up">
+<div class="swatch-item color-brand-danger"><dl><dt>#d9534f</dt><dd>Brand Danger</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="800" data-animation="pop-up">
+<div class="swatch-item color-brand-info"><dl><dt>#5bc0de</dt><dd>Brand Info</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="1000" data-animation="pop-up">
+<div class="swatch-item color-brand-success"><dl><dt>#5cb85c</dt><dd>Brand Success</dd></dl></div>
+</div>
+</div>
+<!-- Brand Colors --> <!-- Grayscale -->
+<h2>Grayscale Levels</h2>
+<div class="row example-row example-colors">
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="0" data-animation="pop-up">
+<div class="swatch-item color-gray-darker"><dl><dt>#222222</dt><dd>Gray Darker</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="200" data-animation="pop-up">
+<div class="swatch-item color-gray-dark"><dl><dt>#3333333</dt><dd>Gray Dark</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="400" data-animation="pop-up">
+<div class="swatch-item color-gray"><dl><dt>#666666</dt><dd>Gray</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="600" data-animation="pop-up">
+<div class="swatch-item color-gray-light"><dl><dt>#999999</dt><dd>Gray Light</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="800" data-animation="pop-up">
+<div class="swatch-item color-gray-lighter"><dl><dt>#eeeeee</dt><dd>Gray Lighter</dd></dl></div>
+</div>
+<div class="col-sm-6 col-md-4 col-lg-2" data-delay="1000" data-animation="pop-up">
+<div class="swatch-item color-gray-lightest"><dl><dt>#f7f7f7</dt><dd>Gray Lightest</dd></dl></div>
+</div>
+</div>
+<!-- //Grayscale --></div>
+<!-- //COLOR SWATCHES -->
+<p>&nbsp;</p>
+<!-- NAVIGATIONS
+================================================== -->
+<div class="docs-section">
+<div class="page-header">
+<h1 id=" example-navigation">Navigations</h1>
+</div>
+<!-- Tabs & Vertical Menus -->
+<div class="row example-row example-navigation"><!-- Tabs -->
+<div class="col-lg-8">
+<h2>Tabs</h2>
+<ul class="nav nav-tabs" style="margin-bottom: 15px;">
+<li class="active"><a href="http://demo.joomlabuff.com/bookstore/#home" data-toggle="tab">Home</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#profile" data-toggle="tab">Profile</a></li>
+<li class="disabled"><a>Disabled</a></li>
+<li class="dropdown"><a href="http://demo.joomlabuff.com/bookstore/#" class="dropdown-toggle" data-toggle="dropdown"> Dropdown </a>
+<ul class="dropdown-menu">
+<li><a href="http://demo.joomlabuff.com/bookstore/#dropdown1" data-toggle="tab">Action</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#dropdown2" data-toggle="tab">Another action</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#dropdown2" data-toggle="tab">Another action</a></li>
+</ul>
+</li>
+</ul>
+<div id="myTabContent" class="tab-content">
+<div id="home" class="tab-pane fade active in">
+<p>In the area of graphical user interfaces (GUI), a <strong>tabbed document interface</strong> (TDI) or a Tab is one that allows multiple documents to be contained within a single window, using tabs as a navigational widget for switching between sets of documents. It is an interface style most commonly associated with web browsers, web applications, text editors, and preference panes.</p>
+<p>GUI tabs are modeled after traditional card tabs inserted in paper files or card indexes (in keeping with the desktop metaphor).</p>
+</div>
+<div id="profile" class="tab-pane fade">
+<p>In the area of graphical user interfaces (GUI), a <strong>tabbed document interface</strong> (TDI) or a Tab is one that allows multiple documents to be contained within a single window, using tabs as a navigational widget for switching between sets of documents. It is an interface style most commonly associated with web browsers, web applications, text editors, and preference panes.</p>
+<p>GUI tabs are modeled after traditional card tabs inserted in paper files or card indexes (in keeping with the desktop metaphor).</p>
+</div>
+<div id="dropdown1" class="tab-pane fade">
+<p>In the area of graphical user interfaces (GUI), a <strong>tabbed document interface</strong> (TDI) or a Tab is one that allows multiple documents to be contained within a single window, using tabs as a navigational widget for switching between sets of documents. It is an interface style most commonly associated with web browsers, web applications, text editors, and preference panes.</p>
+<p>GUI tabs are modeled after traditional card tabs inserted in paper files or card indexes (in keeping with the desktop metaphor).</p>
+</div>
+<div id="dropdown2" class="tab-pane fade">
+<p>In the area of graphical user interfaces (GUI), a <strong>tabbed document interface</strong> (TDI) or a Tab is one that allows multiple documents to be contained within a single window, using tabs as a navigational widget for switching between sets of documents. It is an interface style most commonly associated with web browsers, web applications, text editors, and preference panes.</p>
+<p>GUI tabs are modeled after traditional card tabs inserted in paper files or card indexes (in keeping with the desktop metaphor).</p>
+</div>
+</div>
+</div>
+<!-- //Tabs --> <!-- Vertical Menus -->
+<div class="col-lg-4">
+<h2>Vertical Menus</h2>
+<ul class="nav nav-pills nav-stacked">
+<li class="active"><a href="http://demo.joomlabuff.com/bookstore/#">Active Menu Item</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Menu Item</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Menu Item</a></li>
+<li class="disabled"><a href="http://demo.joomlabuff.com/bookstore/#">Disabled Menu Item</a></li>
+<li class="dropdown"><a href="http://demo.joomlabuff.com/bookstore/#" class="dropdown-toggle" data-toggle="dropdown"> Dropdown </a>
+<ul class="dropdown-menu">
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Action</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Another action</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Something else here</a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Separated link</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- Vertical Menus --></div>
+<!-- Tabs & Vertical Menus --></div>
+<!-- //NAVIGATIONS -->
+<p>&nbsp;</p>
+<!-- FORMS
+================================================== -->
+<div class="docs-section">
+<div class="page-header">
+<h1 id="example-forms">Forms</h1>
+</div>
+<!-- Buttons -->
+<h2>Buttons</h2>
+<div class="row example-row example-forms example-buttons">
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-default">Default Button</a></div>
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-primary">Primary Button</a></div>
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-success">Success Button</a></div>
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-inverse">Inverse Button</a></div>
+</div>
+<div class="row example-row example-forms example-buttons">
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-info">Info Button</a></div>
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-warning">Warning Button</a></div>
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-danger">Danger Button</a></div>
+<div class="col-sm-6 col-lg-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-block btn-lg btn-default disabled">Disabled Button</a></div>
+</div>
+<!-- //Buttons --> <!-- Inputs -->
+<h2>Inputs</h2>
+<div class="row example-row example-forms example-inputs">
+<div class="col-sm-6 col-lg-3">
+<div class="form-group has-success"><label for="inputSuccess" class="control-label">Input success</label> <input type="text" id="inputSuccess" class="form-control" /></div>
+</div>
+<div class="col-sm-6 col-lg-3">
+<div class="form-group has-error"><label for="inputError" class="control-label">Input error</label> <input type="text" id="inputError" class="form-control" /></div>
+</div>
+<div class="col-sm-6 col-lg-3">
+<div class="form-group has-warning"><label for="inputWarning" class="control-label">Input warning</label> <input type="text" id="inputWarning" class="form-control" /></div>
+</div>
+<div class="col-sm-6 col-lg-3">
+<div class="form-group"><label for="disabledInput" class="control-label">Disabled input</label> <input disabled="disabled" type="text" id="disabledInput" class="form-control" /></div>
+</div>
+</div>
+<!-- //Inputs --> <!-- Example Form -->
+<div class="row example-row example-forms">
+<div class="col-lg-12">
+<h2>Sample Basic Form</h2>
+<div class="well"><form class="form-horizontal"><fieldset><legend>Legend</legend>
+<div class="form-group"><label for="inputEmail" class="col-lg-2 control-label">Email</label>
+<div class="col-lg-10"><input type="text" id="inputEmail" class="form-control" /></div>
+</div>
+<div class="form-group"><label for="inputPassword" class="col-lg-2 control-label">Password</label>
+<div class="col-lg-10"><input type="password" id="inputPassword" class="form-control" />
+<div class="checkbox"><label> <input type="checkbox" /> Checkbox </label></div>
+</div>
+</div>
+<div class="form-group"><label for="textArea" class="col-lg-2 control-label">Textarea</label>
+<div class="col-lg-10"><textarea rows="3" id="textArea" class="form-control"></textarea> <span class="help-block">A longer block of help text that breaks onto a new line and may extend beyond one line.</span></div>
+</div>
+<div class="form-group"><label class="col-lg-2 control-label">Radios</label>
+<div class="col-lg-10">
+<div class="radio"><label> <input checked="checked" name="optionsRadios" type="radio" value="option1" id="optionsRadios1" /> Option one is this </label></div>
+<div class="radio"><label> <input name="optionsRadios" type="radio" value="option2" id="optionsRadios2" /> Option two can be something else </label></div>
+</div>
+</div>
+<div class="form-group"><label for="select" class="col-lg-2 control-label">Selects</label>
+<div class="col-lg-10"><select id="select" class="form-control"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select><br /><select multiple="multiple" class="form-control"><option>1</option><option>2</option><option>3</option><option>4</option><option>5</option></select></div>
+</div>
+<div class="form-group">
+<div class="col-lg-10 col-lg-offset-2"><button class="btn btn-default">Cancel</button> <button type="submit" class="btn btn-primary">Submit</button></div>
+</div>
+</fieldset></form></div>
+</div>
+</div>
+<!-- //Example Form --></div>
+<!-- //FORMS -->
+<p>&nbsp;</p>
+<!-- HERO UNITS
+=======================================================-->
+<div class="docs-section">
+<div class="page-header">
+<h1 id="example-herounit">Hero Units</h1>
+</div>
+<div class="row example-row example-herounit">
+<div class="col-lg-12">
+<div class="jumbotron">
+<h1>Jumbotron</h1>
+<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+<p><a class="btn btn-primary btn-lg">Call to Action</a></p>
+</div>
+<div class="jumbotron jumbotron-primary">
+<h1>Primary Jumbotron</h1>
+<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+<p><a class="btn btn-primary btn-lg">Call to Action</a></p>
+</div>
+<div class="jumbotron masthead">
+<h1>Masthead</h1>
+<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+<p><a class="btn btn-primary btn-lg">Call to Action</a></p>
+</div>
+<div class="jumbotron jumbotron-primary masthead">
+<h1>Primary Masthead</h1>
+<p>This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+<p><a class="btn btn-primary btn-lg">Call to Action</a></p>
+</div>
+</div>
+</div>
+</div>
+<!-- //HERO UNITS -->
+<p>&nbsp;</p>
+<!-- THUMBNAILS
+=======================================================-->
+<div class="docs-section">
+<div class="page-header">
+<h1 id="example-thumbnails">Thumbnails</h1>
+</div>
+<!-- Default Thumnails -->
+<p class="lead">Extend Bootstrap's <a href="http://demo.joomlabuff.com/bookstore/../css/#grid">grid system</a> with the thumbnail component to easily display grids of images, videos, text, and more.</p>
+<h2>Default example</h2>
+<p>By default, Bootstrap's thumbnails are designed to showcase linked images with minimal required markup.</p>
+<div class="row example-row example-thumbnails">
+<div class="col-sm-6 col-md-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="thumbnail"> <img alt="" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/100%x180" /> </a></div>
+<div class="col-sm-6 col-md-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="thumbnail"> <img alt="" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/100%x180" /> </a></div>
+<div class="col-sm-6 col-md-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="thumbnail"> <img alt="" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/100%x180" /> </a></div>
+<div class="col-sm-6 col-md-3"><a href="http://demo.joomlabuff.com/bookstore/#" class="thumbnail"> <img alt="" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/100%x180" /> </a></div>
+</div>
+<!-- //Default Thumnails --> <!-- Custom Content Thumnails -->
+<h2>Custom content</h2>
+<p>With a bit of extra markup, it's possible to add any kind of HTML content like headings, paragraphs, or buttons into thumbnails.</p>
+<div class="row example-row example-thumbnails">
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail"><img alt="" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/100%x220" />
+<div class="caption">
+<h3>Thumbnail label</h3>
+<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+<p><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-primary">Button</a> <a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-default">Button</a></p>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail"><img alt="" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/100%x220" />
+<div class="caption">
+<h3>Thumbnail label</h3>
+<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+<p><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-primary">Button</a> <a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-default">Button</a></p>
+</div>
+</div>
+</div>
+<div class="col-sm-6 col-md-4">
+<div class="thumbnail"><img alt="" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/100%x220" />
+<div class="caption">
+<h3>Thumbnail label</h3>
+<p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+<p><a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-primary">Button</a> <a href="http://demo.joomlabuff.com/bookstore/#" class="btn btn-default">Button</a></p>
+</div>
+</div>
+</div>
+</div>
+<h2><!-- //Custom Content Thumnails --></h2>
+</div>
+<!-- MEDIA OBJECT
+=======================================================-->
+<div class="docs-section">
+<div class="page-header">
+<h1>Media Object</h1>
+</div>
+<div class="row example-row example-media">
+<div class="col-lg-12">
+<div class="media"><a href="http://demo.joomlabuff.com/bookstore/#" class="pull-left"> <img alt="" class="media-object" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/64x64" /> </a>
+<div class="media-body">
+<h4 class="media-heading">Media heading</h4>
+Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</div>
+</div>
+<div class="media"><a href="http://demo.joomlabuff.com/bookstore/#" class="pull-left"> <img alt="" class="media-object" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/64x64" /> </a>
+<div class="media-body">
+<h4 class="media-heading">Media heading</h4>
+Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+<div class="media"><a href="http://demo.joomlabuff.com/bookstore/#" class="pull-left"> <img alt="" class="media-object" border="0" data-src="http://demo.joomlabuff.com/bookstore/holder.js/64x64" /> </a>
+<div class="media-body">
+<h4 class="media-heading">Nested media heading</h4>
+Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin commodo. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- //MEDIA OBJECT -->
+<p>&nbsp;</p>
+<!-- TABLES
+================================================== -->
+<div class="docs-section">
+<div class="page-header">
+<h1 id="example-tables">Tables</h1>
+</div>
+<!-- Basic Tables -->
+<h2>Basic Tables</h2>
+<div class="row example-row example-tables">
+<div class="col-lg-6">
+<div class="table-responsive">
+<table class="table table-hover">
+<thead>
+<tr><th>#</th><th>Column heading</th><th>Column heading</th><th>Column heading</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr><th>#</th><th>Column heading</th><th>Column heading</th><th>Column heading</th></tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Basic Tables --> <!-- Bordered Tables -->
+<h2>Bordered Tables</h2>
+<div class="row example-row example-tables">
+<div class="col-lg-6">
+<div class="example table-responsive">
+<table class="table table-bordered">
+<thead>
+<tr><th>#</th><th>Column heading</th><th>Column heading</th><th>Column heading</th></tr>
+</thead>
+<tbody>
+<tr class="active">
+<td>1</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="success">
+<td>3</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="warning">
+<td>5</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="danger">
+<td>7</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="table-responsive">
+<table class="table table-striped table-bordered table-hover">
+<thead>
+<tr><th>#</th><th>Column heading</th><th>Column heading</th><th>Column heading</th></tr>
+</thead>
+<tbody>
+<tr class="active">
+<td>1</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="success">
+<td>3</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="warning">
+<td>5</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+<tr class="danger">
+<td>7</td>
+<td>Column content</td>
+<td>Column content</td>
+<td>Column content</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- //Bordered Tables --></div>
+<!-- //TABLES -->
+<p>&nbsp;</p>
+<!-- INDICATORS
+================================================== -->
+<div class="docs-section">
+<div class="page-header">
+<h1 id="example-indicators">Indicators</h1>
+</div>
+<!-- Alerts -->
+<h2>Alerts and Notifications</h2>
+<div class="row example-row example-indicators">
+<div class="col-lg-6">
+<div class="alert  alert-danger"><button type="button" class="close" data-dismiss="alert">&times;</button> <strong>Oh snap!</strong> <a href="http://demo.joomlabuff.com/bookstore/#" class="alert-link">Change a few things up</a> and try submitting again.</div>
+</div>
+<div class="col-lg-6">
+<div class="alert  alert-success"><button type="button" class="close" data-dismiss="alert">&times;</button> <strong>Well done!</strong> You successfully read <a href="http://demo.joomlabuff.com/bookstore/#" class="alert-link">this important alert message</a>.</div>
+</div>
+</div>
+<div class="row example-row example-indicators">
+<div class="col-lg-6">
+<div class="alert  alert-info"><button type="button" class="close" data-dismiss="alert">&times;</button> <strong>Heads up!</strong> This <a href="http://demo.joomlabuff.com/bookstore/#" class="alert-link">alert needs your attention</a>, but it's not super important.</div>
+</div>
+<div class="col-lg-6">
+<div class="alert  alert-warning"><button type="button" class="close" data-dismiss="alert">&times;</button> <strong>Warning!</strong> Best check yo self, you're not looking too good.</div>
+</div>
+</div>
+<!-- Alerts --> <!-- Labels & Badges -->
+<div class="row example-row example-indicators">
+<div class="col-lg-6">
+<h2>Badges</h2>
+<div class="example">
+<ul class="nav nav-pills">
+<li class="active"><a href="http://demo.joomlabuff.com/bookstore/#">Home <span class="badge">42</span></a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Profile </a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Messages <span class="badge">25</span></a></li>
+<li><a href="http://demo.joomlabuff.com/bookstore/#">Notices <span class="badge">2</span></a></li>
+</ul>
+</div>
+</div>
+<div class="col-lg-6">
+<h2>Labels</h2>
+<div class="example"><span class="label label-default">Default</span> <span class="label label-primary">Primary</span> <span class="label label-success">Success</span> <span class="label label-info">Info</span> <span class="label label-warning">Warning</span> <span class="label label-danger">Danger</span></div>
+</div>
+</div>
+<!-- Labels & Badges --></div>
+<!-- //INDICATORS -->
+<p>&nbsp;</p>
+<!-- MISC
+================================================== -->
+<div class="docs-section">
+<div class="page-header">
+<h1 id="example-misc">Other useful components</h1>
+</div>
+<!-- List Groups -->
+<h2>List groups</h2>
+<div class="row example-row example-misc">
+<div class="col-lg-4">
+<ul class="list-group">
+<li class="list-group-item"><span class="badge">14</span> Cras justo odio</li>
+<li class="list-group-item"><span class="badge">2</span> Dapibus ac facilisis in</li>
+<li class="list-group-item">Morbi leo risus</li>
+<li class="list-group-item"><span class="badge">1</span> Morbi leo risus</li>
+<li class="list-group-item"><span class="badge">2</span> Dapibus ac facilisis in</li>
+</ul>
+</div>
+<div class="col-lg-4">
+<div class="list-group"><a href="http://demo.joomlabuff.com/bookstore/#" class="list-group-item active"><span class="badge">9</span> Cras justo odio</a> <a href="http://demo.joomlabuff.com/bookstore/#" class="list-group-item">Dapibus ac facilisis in</a> <a href="http://demo.joomlabuff.com/bookstore/#" class="list-group-item">Morbi leo risus</a> <a href="http://demo.joomlabuff.com/bookstore/#" class="list-group-item">Porta ac consectetur ac</a> <a href="http://demo.joomlabuff.com/bookstore/#" class="list-group-item">Vestibulum at eros</a></div>
+</div>
+<div class="col-lg-4">
+<div class="list-group">
+<h4 class="list-group-item-heading">List group item heading</h4>
+<p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus risus varius blandit.</p>
+<h4 class="list-group-item-heading">List group item heading</h4>
+<p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+<h4 class="list-group-item-heading">List group item heading</h4>
+<p class="list-group-item-text">Donec id elit non mi porta gravida at eget metus.</p>
+</div>
+</div>
+</div>
+<!-- //List Groups --> <!-- Panels -->
+<h2>Panels</h2>
+<div class="row example-row example-misc">
+<div class="col-lg-4">
+<div class="panel panel-default">
+<div class="panel-heading">Panel heading</div>
+<div class="panel-body">Panel content</div>
+</div>
+<div class="panel panel-primary">
+<div class="panel-heading">
+<h3 class="panel-title">Panel primary</h3>
+</div>
+<div class="panel-body">Panel content</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="panel panel-success">
+<div class="panel-heading">
+<h3 class="panel-title">Panel success</h3>
+</div>
+<div class="panel-body">Panel content</div>
+</div>
+<div class="panel panel-warning">
+<div class="panel-heading">
+<h3 class="panel-title">Panel warning</h3>
+</div>
+<div class="panel-body">Panel content</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="panel panel-danger">
+<div class="panel-heading">
+<h3 class="panel-title">Panel danger</h3>
+</div>
+<div class="panel-body">Panel content</div>
+</div>
+<div class="panel panel-info">
+<div class="panel-heading">
+<h3 class="panel-title">Panel info</h3>
+</div>
+<div class="panel-body">Panel content</div>
+</div>
+</div>
+</div>
+<!-- //Panels --> <!-- Wells -->
+<h2>Wells</h2>
+<div class="row example-row example-misc">
+<div class="col-lg-4">
+<div class="well well-sm">Look, I'm in a small well!</div>
+</div>
+<div class="col-lg-4">
+<div class="well">Look, I'm in a well!</div>
+</div>
+<div class="col-lg-4">
+<div class="well well-lg">Look, I'm in a large well!</div>
+</div>
+</div>
+<!-- //Wells --></div>
+<!-- // MISC -->]]></description>
+			<author>mvijayanand89@gmail.com (Super User)</author>
+			<category>joomla pages</category>
+			<pubDate>Wed, 30 Sep 2015 08:36:42 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
